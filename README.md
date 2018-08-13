@@ -13,3 +13,4 @@ I will use C language for most of the examples, or higher level languages later 
 3) [Maximum Subarray](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
 4) [Approximate Counting](https://en.wikipedia.org/wiki/Approximate_counting_algorithm)
 5) [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
+6) [Stack and Queue](https://en.wikibooks.org/wiki/Data_Structures/Stacks_and_Queues)
