@@ -79,7 +79,7 @@ int main() {
     printf("Generated array: \n");
     print_array(array);
 
-    // Run the insertion sort algorithm
+    // Run the merge sort algorithm
     merge_sort(array, 0, 9);
 
     // Print the sorted array

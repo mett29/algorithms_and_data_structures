@@ -12,3 +12,4 @@ I will use C language for most of the examples, or higher level languages later 
 2) [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 3) [Maximum Subarray](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
 4) [Approximate Counting](https://en.wikipedia.org/wiki/Approximate_counting_algorithm)
+5) [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
