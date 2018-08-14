@@ -14,3 +14,4 @@ I will use C language for most of the examples, or higher level languages later 
 4) [Approximate Counting](https://en.wikipedia.org/wiki/Approximate_counting_algorithm)
 5) [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 6) [Stack and Queue](https://en.wikibooks.org/wiki/Data_Structures/Stacks_and_Queues)
+7) [Linked List](https://en.wikipedia.org/wiki/Linked_list)
