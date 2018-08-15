@@ -15,3 +15,4 @@ I will use C language for most of the examples, or higher level languages later 
 5) [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 6) [Stack and Queue](https://en.wikibooks.org/wiki/Data_Structures/Stacks_and_Queues)
 7) [Linked List](https://en.wikipedia.org/wiki/Linked_list)
+8) [Hash Table](https://en.wikipedia.org/wiki/Hash_table)
