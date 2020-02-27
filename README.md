@@ -17,3 +17,5 @@ I will use C language for most of the examples, or higher level languages later 
 7) [Linked List](https://en.wikipedia.org/wiki/Linked_list)
 8) [Hash Table](https://en.wikipedia.org/wiki/Hash_table)
 9) [Sequence Alignment](https://en.wikipedia.org/wiki/Sequence_alignment)
+10) [Binary Tree](https://en.wikipedia.org/wiki/Binary_tree)
+11) [Huffman Coding](https://en.wikipedia.org/wiki/Huffman_coding)
